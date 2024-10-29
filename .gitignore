@@ -1,0 +1,12 @@
+# Ignore all .o files
+*.o
+
+# Ignore gcm.cache folder
+gcm.cache/
+module_cache
+
+# Ignore the VulkanApp executable
+VulkanApp
+
+# Ignore the log file.
+last_run_log.txt
